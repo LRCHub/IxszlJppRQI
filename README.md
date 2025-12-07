@@ -1,0 +1,70 @@
+# Ne-Yo – So Sick (Official Music Video)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:31.64] Mmmm mmm yeah
+[00:33.41] Do do do do do do do-do
+[00:38.25] Ohh Yeah
+[00:42.60] Gotta change my answering machine
+[00:45.48] Now that I'm alone
+[00:47.66] Cuz right now it says that we
+[00:50.68] Can't come to the phone
+[00:53.24] And I know it makes no sense
+[00:55.88] Cuz you walked out the door
+[00:58.32] But it's the only way I hear your voice anymore
+[01:02.75] (It's ridiculous)
+[01:05.46] It's been months
+[01:06.61] And for some reason I just
+[01:08.55] (Can't get over us)
+[01:10.85] And I'm stronger than this
+[01:13.93] (Enough is enough)
+[01:16.08] No more walkin round
+[01:17.44] With my head down
+[01:18.59] I'm so over being blue
+[01:20.52] Cryin over you
+[01:22.94] And I'm so sick of love songs
+[01:25.48] So tired of tears
+[01:28.55] So done with wishing you were still here
+[01:33.03] Said I'm so sick of love songs so sad and slow
+[01:38.63] So why can't I turn off the radio?
+[01:43.38] Gotta fix that calender I have
+[01:46.65] That's marked July 15th
+[01:48.25] Because since there's no more you
+[01:50.77] There's no more anniversary
+[01:54.02] I'm so fed up with my thoughts of you
+[01:56.31] And your memory
+[01:58.41] And how every song reminds me
+[02:00.14] Of what used to be
+[02:02.96] That's the reason I'm so sick of love songs
+[02:06.02] So tired of tears
+[02:08.82] So done with wishing you were still here
+[02:12.83] Said I'm so sick of love songs so sad and slow
+[02:18.21] So why can't I turn off the radio?
+[02:23.07] (Leave me alone)
+[02:27.42] Leave me alone
+[02:29.53] (Stupid love songs)
+[02:33.63] Dont make me think about her smile
+[02:36.78] Or having my first child
+[02:39.25] I'm letting go
+[02:41.39] Turning off the radio
+[03:15.04] Cuz I'm so sick of love songs
+[03:17.19] So tired of tears
+[03:19.87] So done with wishing she was still here
+[03:24.18] Said I'm so sick of love songs so sad and slow
+[03:29.78] So why can't I turn off the radio?
+[03:32.80] (Why can't I turn off the radio?)
+[03:34.63] Said I'm so sick of love songs
+[03:38.37] So tired of tears
+[03:40.66] So done with wishing she was still here
+[03:44.46] Said I'm so sick of love songs so sad and slow
+[03:50.41] So why can't I turn off the radio?
+[03:53.04] (Why can't I turn off the radio?)
+[03:54.82] And I'm so sick of love songs
+[03:57.57] So tired of tears
+[04:00.71] So done with wishin' you were still here
+[04:04.65] Said I'm so sick of love songs so sad and slow
+[04:09.68] Why can't I turn off the radio?
+[04:13.03] (Why can't I turn off the radio?)
+[04:15.89] Why can't I turn off the radio?
+```
