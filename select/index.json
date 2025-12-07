@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "So Sick (Official Music Video)",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2025-12-07T08:09:32.707819Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm So Sick",
+      "artist": "Flyleaf",
+      "has_synced": true,
+      "path": "select/01_I'm_So_Sick_Flyleaf.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I´m so Sick",
+      "artist": "Flyleaf",
+      "has_synced": true,
+      "path": "select/02_I_́m_so_Sick_Flyleaf.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "So Sick Stories",
+      "artist": "Ratking & King Krule",
+      "has_synced": true,
+      "path": "select/03_So_Sick_Stories_Ratking_&_King_Krule.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "So Sick Stories",
+      "artist": "RATKING",
+      "has_synced": true,
+      "path": "select/04_So_Sick_Stories_RATKING.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "So Sick",
+      "artist": "Unrest",
+      "has_synced": true,
+      "path": "select/05_So_Sick_Unrest.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "So Sick",
+      "artist": "Brandy",
+      "has_synced": true,
+      "path": "select/06_So_Sick_Brandy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "So Sick",
+      "artist": "Freedo feat. DJ Katch",
+      "has_synced": true,
+      "path": "select/07_So_Sick_Freedo_feat._DJ_Katch.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "So Sick",
+      "artist": "Freedo, DJ Katch",
+      "has_synced": true,
+      "path": "select/08_So_Sick_Freedo,_DJ_Katch.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm So Sick",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/09_I'm_So_Sick_Apink.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "So Sick",
+      "artist": "Ne-Yo",
+      "has_synced": true,
+      "path": "select/10_So_Sick_Ne-Yo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "So Sick (Of Missing You)",
+      "artist": "Pale Waves",
+      "has_synced": true,
+      "path": "select/11_So_Sick_(Of_Missing_You)_Pale_Waves.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "So Sick (Of Missing You)",
+      "artist": "Pale Waves",
+      "has_synced": true,
+      "path": "select/12_So_Sick_(Of_Missing_You)_Pale_Waves.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "NEED YOU MOST (So Sick)",
+      "artist": "The Kid LAROI",
+      "has_synced": true,
+      "path": "select/13_NEED_YOU_MOST_(So_Sick)_The_Kid_LAROI.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'm So Sick of You",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": true,
+      "path": "select/14_I'm_So_Sick_of_You_Weird_Al__Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm So Sick of You",
+      "artist": "'Weird Al' Yankovic",
+      "has_synced": true,
+      "path": "select/15_I'm_So_Sick_of_You_'Weird_Al'_Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "So Sick - Remix",
+      "artist": "Ne-Yo feat. LL Cool J",
+      "has_synced": true,
+      "path": "select/16_So_Sick_-_Remix_Ne-Yo_feat._LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "So Sick Remix (feat. Ne-Yo) [Bonus Track]",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/17_So_Sick_Remix_(feat._Ne-Yo)_[Bonus_Track]_LL_Cool_J.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "So Sick",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_So_Sick_Ne-Yo.txt"
+    }
+  ]
+}
